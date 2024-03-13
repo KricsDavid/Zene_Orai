@@ -36,7 +36,7 @@ class ZeneProgram
             Console.WriteLine($"Hiba történt: {ex.Message}");
         }
     }
-
+    // Mr. KálüBone bemutatkozom mi  vagyunk a nyolcasok teliberakom a mikrofont szanaszet szedem sakkmattot kaptatok verebek vagytok ti kvaratatok mondjatok meg mit akartatok
     static List<Zeneszam> AdatokatBeolvas(string fajlNev)
     {
         List<Zeneszam> zeneszamok = new List<Zeneszam>();
@@ -74,6 +74,7 @@ class ZeneProgram
             new Zeneszam(3, 2, 46, "Eric Clapton:Crazy Country Hop"),
             new Zeneszam(3, 3, 25, "Omega:Ablakok")
             
+
         };
 
         return mintaAdatok;

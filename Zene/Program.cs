@@ -36,7 +36,20 @@ class ZeneProgram
             Console.WriteLine($"Hiba történt: {ex.Message}");
         }
     }
-    // Mr. KálüBone bemutatkozom mi  vagyunk a nyolcasok teliberakom a mikrofont szanaszet szedem sakkmattot kaptatok verebek vagytok ti kvaratatok mondjatok meg mit akartatok
+
+    /*
+    Mr. KálóBone bemutatkozom mi  vagyunk a nyolcasok teliberakom a mikrofont szanaszét szedem sakkmattot kaptatok verebek vagytok
+    ti kavartatok mondjátok meg mit akartatok mert tudod én vagyok az aki majd titeket odarak  tetszik nem tetszik bumm meghúzom én a ravaszt
+
+    Mindig készenlétben állok, résen vagyok, szemet veszem a cigány veszett mit is tehetsz, rák a beled veréb gyerek.
+    Nem tudom én, hogy honnan jöttetek, de megfizettek mind hidd el, hogy ti még rám lőttetek.
+
+
+    Kegyetlenül rappeltem meg feltettem ezeket nektek és, de palira vettem, a pénzeteket meg eltettem én.
+    A véremet hajtom, magamat tartom katona másik parton, az I-re a kardom, nincsen pardon, egy kalandra vágyó fantom.
+
+
+     */
     static List<Zeneszam> AdatokatBeolvas(string fajlNev)
     {
         List<Zeneszam> zeneszamok = new List<Zeneszam>();
